@@ -129,9 +129,9 @@ body {
   color: #fff;
 }
 
-@media (max-width: 991px) {
+@media (max-width: 1540px) {
   html, body {
-    overflow-x: hidden;
+    overflow-x: visible;
   }
   .mobile-top-fix {
     margin-top: 30px;
@@ -1178,7 +1178,7 @@ Kids
 #kids .owl-dots {
   display: none;
 }
-    
+
 #kids .owl-nav .owl-prev{
   position: absolute;
   left: -80px;

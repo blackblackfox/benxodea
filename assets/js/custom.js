@@ -2,7 +2,7 @@
 	
 	"use strict";
 	$('.owl-men-item').owlCarousel({
-		items:4,
+		items:5,
 		loop:true,
 		dots: true,
 		nav: true,
@@ -15,7 +15,7 @@
 				  items:2
 			  },
 			  1000:{
-				  items:4
+				  items:3
 			  }
 		 }
 	})
@@ -34,7 +34,7 @@
 				  items:2
 			  },
 			  1000:{
-				  items:4
+				  items:3
 			  }
 		 }
 	 })
@@ -53,10 +53,29 @@
 				  items:2
 			  },
 			  1000:{
-				  items:4
+				  items:3
 			  }
 		 }
 	 })
+
+	$('.owl-accessories-item').owlCarousel({
+		items:4,
+		loop:true,
+		dots: true,
+		nav: true,
+		margin:30,
+		responsive:{
+			0:{
+				items:1
+			},
+			600:{
+				items:2
+			},
+			1000:{
+				items:3
+			}
+		}
+	})
 
 	$(window).scroll(function() {
 	  var scroll = $(window).scrollTop();
