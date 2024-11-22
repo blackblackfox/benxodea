@@ -53,7 +53,7 @@
 				  items:2
 			  },
 			  1000:{
-				  items:3
+				  items:4
 			  }
 		 }
 	 })
@@ -72,7 +72,7 @@
 				items:2
 			},
 			1000:{
-				items:3
+				items:4
 			}
 		}
 	})
