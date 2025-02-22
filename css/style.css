@@ -540,7 +540,7 @@ ol {
 .hero-items .owl-nav button[type=button].owl-next {
 	left: auto;
 	right: 60px;
-	display: none;
+	/* display: none; */
 }
 
 .single-slider-item {
@@ -672,8 +672,8 @@ ol {
 
 .features-box .single-box-item.second-box .box-text {
 	position: absolute;
-	left: 56px;
-	top: 150px;
+	left: 80px;
+	top: 110px;
 }
 
 .features-box .single-box-item.second-box .box-text .trend-year {
@@ -684,11 +684,11 @@ ol {
 .features-box .single-box-item.second-box .box-text .trend-alert {
 	color: #5b5b5b;
 	display: inline-block;
-	font-size: 16px;
+	font-size: 22px;
 	font-family: "FuturaBT-Book";
+	letter-spacing: 2px;
+	line-height: 36px;
 	text-transform: uppercase;
-	letter-spacing: 4px;
-	line-height: 45px;
 }
 
 .features-box .single-box-item.large-box .box-text {
