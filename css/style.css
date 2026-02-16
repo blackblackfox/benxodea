@@ -135,6 +135,8 @@ ol {
 .spad {
 	padding-top: 100px;
 	padding-bottom: 100px;
+
+	
 }
 
 .text-white h1,
@@ -913,9 +915,7 @@ ol {
 
 .footer-section {
 	background: #262626;
-	padding-bottom: 50px;
-    padding-top: 50px;
-    height: 150px;
+	padding-bottom: 0;
 }
 
 .newslatter-form {
