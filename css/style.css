@@ -542,7 +542,13 @@ ol {
 .hero-items .owl-nav button[type=button].owl-next {
 	left: auto;
 	right: 60px;
-	/* display: none; */
+	display: none;
+}
+
+.hero-items .owl-nav button[type=button].owl-prev {
+	left: auto;
+	right: 60px;
+	display: none;
 }
 
 .single-slider-item {
